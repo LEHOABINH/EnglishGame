@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60B78708-7243-4D01-BED7-04FFDAC7C28C}|EnglishGame\\EnglishGame.csproj|c:\\users\\admin\\documents\\code c#\\englishgame\\englishgame\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B78708-7243-4D01-BED7-04FFDAC7C28C}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B78708-7243-4D01-BED7-04FFDAC7C28C}|EnglishGame\\EnglishGame.csproj|c:\\users\\admin\\documents\\code c#\\englishgame\\englishgame\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{60B78708-7243-4D01-BED7-04FFDAC7C28C}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B78708-7243-4D01-BED7-04FFDAC7C28C}|EnglishGame\\EnglishGame.csproj|c:\\users\\admin\\documents\\code c#\\englishgame\\englishgame\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B78708-7243-4D01-BED7-04FFDAC7C28C}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B78708-7243-4D01-BED7-04FFDAC7C28C}|EnglishGame\\EnglishGame.csproj|c:\\users\\admin\\documents\\code c#\\englishgame\\englishgame\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B78708-7243-4D01-BED7-04FFDAC7C28C}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B78708-7243-4D01-BED7-04FFDAC7C28C}|EnglishGame\\EnglishGame.csproj|c:\\users\\admin\\documents\\code c#\\englishgame\\englishgame\\models\\wordcheckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B78708-7243-4D01-BED7-04FFDAC7C28C}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\models\\wordcheckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B78708-7243-4D01-BED7-04FFDAC7C28C}|EnglishGame\\EnglishGame.csproj|c:\\users\\admin\\documents\\code c#\\englishgame\\englishgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B78708-7243-4D01-BED7-04FFDAC7C28C}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EnglishGame\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EnglishGame\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:12:26.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "EnglishGame\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "EnglishGame\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T13:12:22.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\Program.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\Program.cs",
+              "RelativeToolTip": "EnglishGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:26:32.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WordCheckModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\Models\\WordCheckModel.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Models\\WordCheckModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\Models\\WordCheckModel.cs",
+              "RelativeToolTip": "EnglishGame\\Models\\WordCheckModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:11:37.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EnglishGame\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwFYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:07:16.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnglishGame\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EnglishGame\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T11:07:02.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

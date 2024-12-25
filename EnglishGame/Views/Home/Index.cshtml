@@ -1,0 +1,59 @@
+﻿@model EnglishGame.Models.WordCheckModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Word Checker Game</title>
+    <link rel="stylesheet" href="~/css/styles.css" /> <!-- Liên kết với tệp CSS -->
+    <script>
+        // Hàm để tự động focus vào ô textbox
+        function focusInput() {
+            document.getElementById("InputWord").focus();
+        }
+    </script>
+</head>
+<body onload="focusInput()">
+    <h1>English Game</h1>
+
+    <form method="post" asp-action="CheckWord">
+        <label for="InputWord">Nhập từ:</label>
+        <input type="text" id="InputWord" name="InputWord" required />
+        <button type="submit">Kiểm tra</button>
+    </form>
+
+    @if (Model.InputWord != null)
+    {
+        <h2>Từ "<strong>@Model.InputWord</strong>" @(Model.IsEnglish ? "là từ tiếng Anh." : "không phải tiếng Anh.")</h2>
+    }
+
+    @if (Model.CorrectWordCount > 0)
+    {
+        <h2>Số từ đã điền đúng: <strong>@Model.CorrectWordCount</strong></h2>
+        <h3>Danh sách các từ đã điền đúng:</h3>
+        <ul>
+            @foreach (var word in Model.CorrectWords)
+            {
+                <li>@word</li>
+            }
+        </ul>
+    }
+
+    @* Hiển thị thông báo về từ đã sử dụng *@
+    @if (!string.IsNullOrEmpty(Model.UsedWordMessage))
+    {
+        <h2 style="color:red;">@Model.UsedWordMessage</h2>
+    }
+
+    @* Hiển thị thông báo lỗi nếu có *@
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div style="color:red;">
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <p>@error.ErrorMessage</p>
+            }
+        </div>
+    }
+</body>
+</html>

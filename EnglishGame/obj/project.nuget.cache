@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Y0y1SAxP/s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\Code C#\\EnglishGame\\EnglishGame\\EnglishGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
